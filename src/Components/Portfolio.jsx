@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Urdu-to-English Machine Translation using Seq2Seq Transformers Variant Model 🌐",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a state-of-the-art machine translation system that seamlessly converts Urdu text into English leveraging the cutting-edge Transformer-based architecture. The model employs self-attention mechanisms to comprehend the nuanced contextual relationships between words in a sentence. Comprising multiple layers of encoders and decoders, it underwent extensive training on a vast parallel dataset of Urdu-English sentences. The outcome? A model finely tuned to capture the subtleties of the source language, delivering precise and eloquent translations in the target language.",
+    url: "https://github.com/Kheem-Dh/Urdu-to-English-Machine-Translation-using-Seq2Seq-Transformers-Variant-Model",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Azure 102 Labs: Your Gateway to AI Engineering 🚀",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Welcome to the Microsoft Azure 102 Labs repository, your gateway to the exciting world of AI Engineering using Microsoft Azure's robust AI services. Dive into a comprehensive collection of hands-on labs meticulously designed to equip you with the foundational skills and practical experience necessary for mastering Azure's AI offerings.",
+    url: "https://github.com/Kheem-Dh/MS-AI-102-Labs-",
   },
   {
-    title: "My Resume Site",
+    title: "End-to-End Implementation of a QA Bot using Deep Learning 🤖",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Explore the world of question-answering with our end-to-end implementation of a Question-Answering (QA) bot using cutting-edge deep learning techniques. This repository is a treasure trove of code and resources dedicated to creating a QA bot that can provide accurate answers based on a given context or a set of documents.",
+    url: "https://github.com/Kheem-Dh/End-to-End-Implementation-of-a-QA-Bot-using-Deep-Learning",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Churn Prediction Pipeline Using Azure Cloud ☁️",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Dive into the realm of customer churn prediction with our end-to-end solution built on the Azure Cloud platform. In this project, we set out to tackle two critical objectives: understanding the factors contributing to customer churn and deploying a classification system to predict potential churn.",
+    url: "https://github.com/Kheem-Dh/Churn-Predication-Pipeline-Using-Azure-Cloud-",
   },
 ];
 
